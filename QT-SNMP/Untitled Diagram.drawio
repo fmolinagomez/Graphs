@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-12T11:04:44.333Z" agent="5.0 (Windows)" etag="Pxm8KbbRxsEV8FoGaGKJ" version="14.6.12" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-12T11:06:14.926Z" agent="5.0 (Windows)" etag="r7f7LnwBtn_sTQvqjh9_" version="14.6.12" type="github">
   <diagram id="a45cf8ec-cd66-6f27-3ac3-be6e809c9e4a" name="Page-1">
     <mxGraphModel dx="1371" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -52,11 +52,11 @@
         <mxCell id="131" value="STB" style="image;html=1;image=img/lib/clip_art/networking/Router_128x128.png;shadow=0;strokeColor=#000000;fillColor=#FFFFFF;gradientColor=none;fontSize=18;fontColor=#F08705;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="1011" y="990" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="168" value="ENTERPRISE NETWORK" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;shadow=0;fontSize=36;fontColor=#AE4132;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="137" y="15" width="1380" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="171" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=none;html=1;exitX=0;exitY=0.5;entryX=0;entryY=0.5;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;endSize=6;jettySize=auto;orthogonalLoop=1;strokeColor=#23445D;strokeWidth=2;fillColor=#F08705;fontFamily=Helvetica;fontSize=14;fontColor=#F08705;align=left;fontStyle=0" parent="1" source="168" target="168" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="171" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=none;html=1;exitX=0;exitY=0.5;entryX=0;entryY=0.5;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;endSize=6;jettySize=auto;orthogonalLoop=1;strokeColor=#23445D;strokeWidth=2;fillColor=#F08705;fontFamily=Helvetica;fontSize=14;fontColor=#F08705;align=left;fontStyle=0" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="137" y="37.500000000000114" as="sourcePoint" />
+            <mxPoint x="137" y="37.500000000000114" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="JcsgPsIkyArwveX5wpa3-173" value="&lt;div&gt;snmpcol01&lt;/div&gt;" style="image;html=1;image=img/lib/clip_art/computers/Server_Tower_128x128.png;shadow=0;strokeColor=#000000;fillColor=#FFFFFF;gradientColor=none;fontSize=18;fontColor=#F08705;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="710" y="680" width="80" height="80" as="geometry" />
